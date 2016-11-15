@@ -1,3 +1,5 @@
-Milch
-Brot
-Obst
+Milch  
+Brot  
+Obst  
+Birne  
+Apfel  
